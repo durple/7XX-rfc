@@ -7,6 +7,7 @@ There are many ways for a developer to screw up their implementation, but no cod
 We humbly suggest the following status codes to be included in the HTTP spec in the 7XX range.
 
   * 70X - Inexcusable
+    - 700 - Windows
     - 701 - Meh
     - 702 - Emacs
     - 703 - Explosion
